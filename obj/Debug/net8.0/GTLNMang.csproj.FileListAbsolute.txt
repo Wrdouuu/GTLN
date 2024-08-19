@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\GTLNMang\bin\Debug\net8.0\GTLNMang.exe
+C:\Users\admin\Desktop\Bai tap\GTLNMang\bin\Debug\net8.0\GTLNMang.deps.json
+C:\Users\admin\Desktop\Bai tap\GTLNMang\bin\Debug\net8.0\GTLNMang.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\GTLNMang\bin\Debug\net8.0\GTLNMang.dll
+C:\Users\admin\Desktop\Bai tap\GTLNMang\bin\Debug\net8.0\GTLNMang.pdb
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.dll
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\refint\GTLNMang.dll
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.pdb
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\GTLNMang.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\GTLNMang\obj\Debug\net8.0\ref\GTLNMang.dll
